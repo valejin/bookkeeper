@@ -48,3 +48,14 @@ build/
 .gradle/
 *.log
 *.dat
+
+# Ignora le cartelle di build
+target/
+build/
+
+# Altre cartelle temporanee comuni
+*.log
+*.class
+.idea/
+.vscode/
+.DS_Store
